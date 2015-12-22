@@ -10,9 +10,9 @@
 * random
 
 
-This crawler was built using IPython Notebook. 
+##### This crawler was built using IPython Notebook. 
 
-#### The crawler gets data from yelp via 'key word search' and 'neighborhood'. The output is in a Pandas DataFrame. 
+##### The crawler gets data from yelp via 'key word search' and 'neighborhood'. The output is in a Pandas DataFrame. 
 
 ### Business Features:
 * Name
