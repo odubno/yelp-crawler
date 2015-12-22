@@ -1,5 +1,9 @@
 # Yelp Python Crawler
 
+##### This crawler was built using IPython Notebook. 
+
+##### The crawler gets data from yelp via 'key word search', 'neighborhood' and 'number of results'. The output is in a Pandas DataFrame. Go crazy. 
+
 ### Libraries:
 * Pandas
 * json
@@ -10,9 +14,7 @@
 * random
 
 
-##### This crawler was built using IPython Notebook. 
 
-##### The crawler gets data from yelp via 'key word search' and 'neighborhood'. The output is in a Pandas DataFrame. 
 
 ### Business Features:
 * Name
