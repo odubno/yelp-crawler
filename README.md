@@ -1,7 +1,5 @@
 # Yelp Python Crawler
 
-## Using IPython Notebook
-
 ### Libraries:
 * Pandas
 * json
@@ -12,3 +10,15 @@
 * random
 
 
+This crawler was built using IPython Notebook. 
+
+The crawler gets data from yelp via 'key word search' and 'neighborhood'. The data output is in pandas. 
+
+### Feature Output:
+* Name
+* Latitude
+* Longitude
+* Price
+* Rating
+* Review Count
+* Review Text (average of 20 reviews per listing)
