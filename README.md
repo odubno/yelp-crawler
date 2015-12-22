@@ -1,9 +1,14 @@
 # Yelp Python Crawler
 
-### Tools:
-* IPython Notebook
+## Using IPython Notebook
 
 ### Libraries:
-
+* Pandas
+* json
+* requests
+* lxml 
+* unidecode
+* time
+* random
 
 
